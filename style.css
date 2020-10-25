@@ -1,0 +1,19 @@
+#btn{
+    margin-top: 20px;
+}
+
+#output{
+    padding: 15px;
+    text-align: center;
+    width:100%;
+    font-size: 30px;
+    height:500px;
+    margin-top: 25px;;
+    border: 1px solid rgb(17, 143, 247);
+}
+
+span{
+    color:red;
+    
+}
+
